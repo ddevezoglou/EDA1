@@ -1,0 +1,8 @@
+,minute,result,X,Y,xG,player,h_a,player_id,situation,shotType,match_id,h_team,a_team,player_assisted,lastAction
+1,18,SavedShot,85.5,53.599998474121094,0.3030575215816498,Cole Palmer,h,8497,OpenPlay,LeftFoot,26657,Chelsea,Brighton,Enzo Fernández,Throughball
+2,20,Goal,85.4000015258789,47.79999923706055,0.34908953309059143,Cole Palmer,h,8497,OpenPlay,LeftFoot,26657,Chelsea,Brighton,Nicolas Jackson,Pass
+3,27,Goal,88.5,50.0,0.7611688375473022,Cole Palmer,h,8497,Penalty,LeftFoot,26657,Chelsea,Brighton,,Standard
+4,30,Goal,72.19999694824219,32.79999923706055,0.037140220403671265,Cole Palmer,h,8497,DirectFreekick,LeftFoot,26657,Chelsea,Brighton,,Standard
+6,40,Goal,91.19999694824219,63.4000015258789,0.1375078707933426,Cole Palmer,h,8497,OpenPlay,LeftFoot,26657,Chelsea,Brighton,Jadon Sancho,Throughball
+9,51,MissedShots,77.0999984741211,69.30000305175781,0.015126819722354412,Cole Palmer,h,8497,FromCorner,LeftFoot,26657,Chelsea,Brighton,,None
+11,55,MissedShots,89.0999984741211,42.70000076293945,0.38792696595191956,Cole Palmer,h,8497,OpenPlay,RightFoot,26657,Chelsea,Brighton,Moisés Caicedo,Pass
