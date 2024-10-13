@@ -1,0 +1,26 @@
+,minute,result,X,Y,xG,player,h_a,player_id,situation,shotType,match_id,h_team,a_team,player_assisted,lastAction
+6,5,BlockedShot,85.19999694824219,45.70000076293945,0.08588103950023651,Lamine Yamal,a,11527,OpenPlay,LeftFoot,26987,Valencia,Barcelona,Robert Lewandowski,TakeOn
+10,36,MissedShots,79.5,48.70000076293945,0.06877048313617706,Lamine Yamal,a,11527,OpenPlay,RightFoot,26987,Valencia,Barcelona,,TakeOn
+12,45,SavedShot,89.9000015258789,46.099998474121094,0.43306466937065125,Lamine Yamal,a,11527,OpenPlay,RightFoot,26987,Valencia,Barcelona,Raphinha,BallTouch
+15,49,MissedShots,92.9000015258789,29.700000762939453,0.026261771097779274,Lamine Yamal,a,11527,OpenPlay,RightFoot,26987,Valencia,Barcelona,Álex Balde,Cross
+3,23,Goal,76.0,47.0,0.017327234148979187,Lamine Yamal,h,11527,SetPiece,LeftFoot,26995,Barcelona,Athletic Club,,None
+8,61,MissedShots,79.5,38.900001525878906,0.026636140421032906,Lamine Yamal,h,11527,SetPiece,LeftFoot,26995,Barcelona,Athletic Club,Pedri,Pass
+8,10,BlockedShot,86.80000305175781,41.29999923706055,0.09625722467899323,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27004,Rayo Vallecano,Barcelona,Pedri,TakeOn
+14,36,SavedShot,80.4000015258789,32.29999923706055,0.024062003940343857,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27004,Rayo Vallecano,Barcelona,Iñigo Martínez,Chipped
+21,58,BlockedShot,86.80000305175781,29.100000381469727,0.0316043384373188,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27004,Rayo Vallecano,Barcelona,Dani Olmo,Pass
+24,79,BlockedShot,79.0999984741211,47.900001525878906,0.043355464935302734,Lamine Yamal,a,11527,FromCorner,LeftFoot,27004,Rayo Vallecano,Barcelona,Pedri,Pass
+28,93,BlockedShot,80.30000305175781,34.900001525878906,0.042492035776376724,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27004,Rayo Vallecano,Barcelona,Jules Koundé,TakeOn
+9,5,SavedShot,86.80000305175781,37.70000076293945,0.07239185273647308,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27028,Girona,Barcelona,Pedri,BallTouch
+15,29,Goal,90.19999694824219,57.29999923706055,0.4145822823047638,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27028,Girona,Barcelona,,None
+16,36,Goal,84.4000015258789,45.400001525878906,0.06522310525178909,Lamine Yamal,a,11527,SetPiece,LeftFoot,27028,Girona,Barcelona,Robert Lewandowski,BallTouch
+20,57,SavedShot,84.69999694824219,36.0,0.10191893577575684,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27028,Girona,Barcelona,Jules Koundé,Pass
+26,71,MissedShots,80.69999694824219,33.29999923706055,0.04193320870399475,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27028,Girona,Barcelona,Hector Fort,BallRecovery
+14,16,ShotOnPost,85.19999694824219,23.299999237060547,0.025419585406780243,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27037,Villarreal,Barcelona,Pedri,Pass
+27,72,BlockedShot,90.4000015258789,40.20000076293945,0.12392213195562363,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27037,Villarreal,Barcelona,Raphinha,Pass
+6,40,MissedShots,78.19999694824219,29.399999618530277,0.029624808579683304,Lamine Yamal,h,11527,OpenPlay,LeftFoot,27043,Barcelona,Getafe,Iñigo Martínez,Chipped
+9,58,SavedShot,78.30000305175781,32.70000076293945,0.030109727755188942,Lamine Yamal,h,11527,OpenPlay,LeftFoot,27043,Barcelona,Getafe,Pau Cubarsí,Pass
+12,70,MissedShots,81.69999694824219,51.20000076293946,0.04338758811354637,Lamine Yamal,h,11527,FromCorner,LeftFoot,27043,Barcelona,Getafe,,None
+17,80,BlockedShot,79.80000305175781,21.799999237060547,0.02048574574291706,Lamine Yamal,a,11527,FromCorner,LeftFoot,27056,Osasuna,Barcelona,Raphinha,Pass
+19,88,Goal,79.80000305175781,39.70000076293945,0.03963301703333855,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27056,Osasuna,Barcelona,Ferrán Torres,Pass
+20,90,BlockedShot,77.9000015258789,40.599998474121094,0.03149854391813278,Lamine Yamal,a,11527,FromCorner,LeftFoot,27056,Osasuna,Barcelona,Raphinha,Pass
+17,48,BlockedShot,89.4000015258789,27.0,0.06054380536079407,Lamine Yamal,a,11527,OpenPlay,LeftFoot,27064,Alaves,Barcelona,Raphinha,Pass
