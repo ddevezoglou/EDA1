@@ -1,0 +1,37 @@
+,minute,result,X,Y,xG,player,h_a,player_id,situation,shotType,match_id,h_team,a_team,player_assisted,lastAction
+14,48,Goal,88.5,50.0,0.7432776093482971,Robert Lewandowski,a,227,Penalty,RightFoot,26987,Valencia,Barcelona,,Standard
+16,50,Goal,97.5,51.59999847412109,0.9050849676132202,Robert Lewandowski,a,227,OpenPlay,RightFoot,26987,Valencia,Barcelona,Lamine Yamal,Rebound
+18,69,BlockedShot,88.0999984741211,46.599998474121094,0.12405440211296082,Robert Lewandowski,a,227,OpenPlay,LeftFoot,26987,Valencia,Barcelona,Marc Casadó,Pass
+23,93,MissedShots,88.5999984741211,59.299999237060554,0.11583801358938217,Robert Lewandowski,a,227,OpenPlay,LeftFoot,26987,Valencia,Barcelona,Pau Victor,Pass
+5,36,ShotOnPost,93.80000305175781,66.4000015258789,0.5010791420936584,Robert Lewandowski,h,227,OpenPlay,RightFoot,26995,Barcelona,Athletic Club,Raphinha,Throughball
+7,56,ShotOnPost,92.4000015258789,48.29999923706055,0.44880518317222595,Robert Lewandowski,h,227,SetPiece,Head,26995,Barcelona,Athletic Club,Raphinha,Cross
+9,63,SavedShot,91.5999984741211,47.29999923706055,0.3765912652015686,Robert Lewandowski,h,227,OpenPlay,RightFoot,26995,Barcelona,Athletic Club,Raphinha,Cross
+10,68,BlockedShot,75.0,58.900001525878906,0.020850770175457,Robert Lewandowski,h,227,OpenPlay,RightFoot,26995,Barcelona,Athletic Club,Pedri,BallRecovery
+11,70,MissedShots,98.9000015258789,59.599998474121094,0.035267315804958344,Robert Lewandowski,h,227,OpenPlay,Head,26995,Barcelona,Athletic Club,Jules Koundé,Cross
+12,74,Goal,88.5,45.70000076293945,0.38777777552604675,Robert Lewandowski,h,227,OpenPlay,LeftFoot,26995,Barcelona,Athletic Club,,None
+18,53,MissedShots,84.0,67.80000305175781,0.05670498311519623,Robert Lewandowski,a,227,OpenPlay,RightFoot,27004,Rayo Vallecano,Barcelona,Pedri,Pass
+0,3,MissedShots,97.0,60.29999923706054,0.08294057846069336,Robert Lewandowski,h,227,OpenPlay,LeftFoot,27012,Barcelona,Real Valladolid,,None
+4,13,SavedShot,81.5999984741211,53.400001525878906,0.056379370391368866,Robert Lewandowski,h,227,OpenPlay,RightFoot,27012,Barcelona,Real Valladolid,Pedri,Pass
+6,16,BlockedShot,94.80000305175781,52.400001525878906,0.1193411648273468,Robert Lewandowski,h,227,SetPiece,Head,27012,Barcelona,Real Valladolid,,Aerial
+8,23,Goal,86.9000015258789,57.599998474121094,0.35723018646240234,Robert Lewandowski,h,227,OpenPlay,LeftFoot,27012,Barcelona,Real Valladolid,Lamine Yamal,Throughball
+11,45,BlockedShot,80.30000305175781,49.0,0.13990911841392517,Robert Lewandowski,h,227,DirectFreekick,RightFoot,27012,Barcelona,Real Valladolid,,Standard
+17,56,ShotOnPost,93.9000015258789,33.29999923706055,0.25260311365127563,Robert Lewandowski,h,227,OpenPlay,RightFoot,27012,Barcelona,Real Valladolid,Lamine Yamal,Pass
+11,15,SavedShot,87.9000015258789,51.59999847412109,0.0411420501768589,Robert Lewandowski,a,227,FromCorner,Head,27028,Girona,Barcelona,Raphinha,Cross
+19,55,SavedShot,91.19999694824219,52.09999847412109,0.5311776995658875,Robert Lewandowski,a,227,OpenPlay,LeftFoot,27028,Girona,Barcelona,Raphinha,Pass
+22,59,MissedShots,82.0,55.400001525878906,0.10758116096258163,Robert Lewandowski,a,227,OpenPlay,RightFoot,27028,Girona,Barcelona,Lamine Yamal,Pass
+17,19,Goal,90.69999694824219,44.0,0.437705934047699,Robert Lewandowski,a,227,OpenPlay,RightFoot,27037,Villarreal,Barcelona,Pablo Torre,Throughball
+18,28,SavedShot,95.19999694824219,56.29999923706055,0.43192264437675476,Robert Lewandowski,a,227,OpenPlay,RightFoot,27037,Villarreal,Barcelona,Jules Koundé,Cross
+21,34,Goal,96.0,51.0,0.6604969501495361,Robert Lewandowski,a,227,FromCorner,RightFoot,27037,Villarreal,Barcelona,,Rebound
+25,66,ShotOnPost,88.5,50.0,0.7432776093482971,Robert Lewandowski,a,227,Penalty,RightFoot,27037,Villarreal,Barcelona,,Standard
+0,4,BlockedShot,86.0,55.50000000000001,0.08155804872512817,Robert Lewandowski,h,227,OpenPlay,RightFoot,27043,Barcelona,Getafe,Marc Casadó,BallTouch
+1,18,Goal,96.0999984741211,48.20000076293945,0.618407130241394,Robert Lewandowski,h,227,OpenPlay,RightFoot,27043,Barcelona,Getafe,,None
+4,32,SavedShot,91.69999694824219,65.4000015258789,0.08988086879253387,Robert Lewandowski,h,227,OpenPlay,LeftFoot,27043,Barcelona,Getafe,Raphinha,Pass
+10,67,BlockedShot,80.4000015258789,51.0,0.05352070555090904,Robert Lewandowski,h,227,OpenPlay,RightFoot,27043,Barcelona,Getafe,Raphinha,TakeOn
+13,51,MissedShots,78.0999984741211,67.80000305175781,0.07062400132417679,Robert Lewandowski,a,227,DirectFreekick,RightFoot,27056,Osasuna,Barcelona,,Standard
+14,52,SavedShot,91.4000015258789,48.5,0.11829912662506104,Robert Lewandowski,a,227,OpenPlay,RightFoot,27056,Osasuna,Barcelona,Jules Koundé,Pass
+11,6,Goal,93.9000015258789,51.0,0.4770280718803406,Robert Lewandowski,a,227,SetPiece,Head,27064,Alaves,Barcelona,Raphinha,Cross
+12,21,Goal,93.80000305175781,49.70000076293945,0.7049187421798706,Robert Lewandowski,a,227,OpenPlay,RightFoot,27064,Alaves,Barcelona,Raphinha,Pass
+14,23,SavedShot,92.0,65.19999694824219,0.09521567076444626,Robert Lewandowski,a,227,OpenPlay,RightFoot,27064,Alaves,Barcelona,Pedri,Pass
+15,31,Goal,90.0,37.70000076293945,0.29521694779396057,Robert Lewandowski,a,227,OpenPlay,RightFoot,27064,Alaves,Barcelona,Eric Garcia,Pass
+22,74,SavedShot,86.4000015258789,55.70000076293945,0.12776513397693634,Robert Lewandowski,a,227,OpenPlay,RightFoot,27064,Alaves,Barcelona,Raphinha,Pass
+23,79,BlockedShot,73.69999694824219,49.900001525878906,0.015719423070549965,Robert Lewandowski,a,227,OpenPlay,RightFoot,27064,Alaves,Barcelona,,TakeOn
